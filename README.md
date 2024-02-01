@@ -1,0 +1,1 @@
+Simple lint project for Github Actions
